@@ -1,0 +1,31 @@
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\bin\Debug\DBCrud.exe
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\bin\Debug\DBCrud.pdb
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\bin\Debug\DBCrud.exe.manifest
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\bin\Debug\DBCrud.application
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.Form1.resources
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.Properties.Resources.resources
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.csproj.GenerateResource.Cache
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.exe.manifest
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.application
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.exe
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.pdb
+D:\UC Docs\My Lab Class\C#\Seminar\DBCrud\DBCrud\obj\x86\Debug\DBCrud.csprojResolveAssemblyReference.cache
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.exe
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.pdb
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\bin\Debug\DBCrud.exe.manifest
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\bin\Debug\DBCrud.application
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\bin\Debug\DBCrud.exe
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\bin\Debug\DBCrud.pdb
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\bin\Debug\MySql.Data.dll
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.csprojResolveAssemblyReference.cache
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.Form1.resources
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.Properties.Resources.resources
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.csproj.GenerateResource.Cache
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.exe.manifest
+C:\Users\Jhone Jay\Desktop\5thYearCpE\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.application
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.exe
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.pdb
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.csprojResolveAssemblyReference.cache
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.Form1.resources
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.Properties.Resources.resources
+C:\Users\Jhone Jay\Desktop\5thYear 1st Sem\c#thu(1.30-4.30)\DBCrud\DBCrud\obj\x86\Debug\DBCrud.csproj.GenerateResource.Cache
